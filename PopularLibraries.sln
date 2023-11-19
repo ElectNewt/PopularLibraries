@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularLibraries.Background
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularLibraries.Mappers", "code\PopularLibraries.Mappers\PopularLibraries.Mappers.csproj", "{23A65885-41C0-4281-805D-866526775678}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularLibraries.PollyExample", "PopularLibraries.PollyExample\PopularLibraries.PollyExample.csproj", "{EBAAFBE3-7409-494A-A1D8-F56984CBC278}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{23A65885-41C0-4281-805D-866526775678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A65885-41C0-4281-805D-866526775678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23A65885-41C0-4281-805D-866526775678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAAFBE3-7409-494A-A1D8-F56984CBC278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAAFBE3-7409-494A-A1D8-F56984CBC278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAAFBE3-7409-494A-A1D8-F56984CBC278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAAFBE3-7409-494A-A1D8-F56984CBC278}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
