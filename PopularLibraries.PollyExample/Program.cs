@@ -4,7 +4,6 @@ using Polly;
 using Polly.CircuitBreaker;
 using Polly.Fallback;
 using Polly.Retry;
-using PopularLibraries.PollyExample.Policies;
 
 var builder = WebApplication.CreateBuilder(args);
 

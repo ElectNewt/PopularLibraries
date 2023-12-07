@@ -1,0 +1,6 @@
+@PopularLibraries.FluentValidations_HostAddress = http://localhost:5220
+
+GET {{PopularLibraries.FluentValidations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
