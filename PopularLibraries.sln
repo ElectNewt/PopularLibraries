@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularLibraries.PollyExamp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularLibraries.FluentValidations", "code\PopularLibraries.FluentValidations\PopularLibraries.FluentValidations.csproj", "{BBC15759-20C1-440C-8877-03B9431EC48A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularLibraries.MediatRExample", "code\PopularLibraries.MediatRExample\PopularLibraries.MediatRExample.csproj", "{D228340D-582E-4994-8E56-39CD9B8323B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{BBC15759-20C1-440C-8877-03B9431EC48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBC15759-20C1-440C-8877-03B9431EC48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBC15759-20C1-440C-8877-03B9431EC48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D228340D-582E-4994-8E56-39CD9B8323B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D228340D-582E-4994-8E56-39CD9B8323B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D228340D-582E-4994-8E56-39CD9B8323B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D228340D-582E-4994-8E56-39CD9B8323B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

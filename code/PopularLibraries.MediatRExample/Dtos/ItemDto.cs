@@ -1,0 +1,3 @@
+﻿namespace PopularLibraries.MediatRExample.Dtos;
+
+public record ItemDto(int Id, decimal Price, string Title);
